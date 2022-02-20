@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    transition: .3s ease-in;
+    outline: 0;
+}
+
+body {
+    overflow: hidden;
+}
